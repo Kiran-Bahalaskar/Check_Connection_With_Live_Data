@@ -1,0 +1,2 @@
+rootProject.name = "Check Connection With Live Data"
+include ':app'
